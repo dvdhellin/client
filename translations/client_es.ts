@@ -1115,7 +1115,7 @@ La actualización se realizará en segundo plano, y sobreescribirá el actual fi
     <message>
         <location filename="../src/gui/connectionvalidator.cpp" line="74"/>
         <source>No ownCloud account configured</source>
-        <translation>No se ha configurado ninguna cuenta de ownCloud</translation>
+        <translation>No se ha configurado ninguna cuenta de RedSión</translation>
     </message>
     <message>
         <location filename="../src/gui/connectionvalidator.cpp" line="290"/>
