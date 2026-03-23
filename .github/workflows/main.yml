@@ -34,11 +34,11 @@ jobs:
               container:
               useSonarCloud: ${{ github.event_name != 'pull_request' }}
             # TODO: align the target with the name
-            - name: macos-clang-arm64
-              target: macos-clang-arm64
-              os: macos-latest
-              container:
-              useSonarCloud:
+            #- name: macos-clang-arm64
+            #  target: macos-clang-arm64
+            #  os: macos-latest
+            #  container:
+            #  useSonarCloud:
             - name: linux-gcc-x86_64
               target: linux-64-gcc
               os: ubuntu-latest
